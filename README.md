@@ -1,4 +1,4 @@
-Node.js Web Server
+*Node.js Web Server*
 
 This repository contains a simple Node.js web server that can be used to serve static files or as the foundation for a more complex web application.
 Getting Started
